@@ -146,11 +146,11 @@ void IRPAIR()
 
 ## OUTPUT
 
-## OFF
+## LED OFF
 
 ![WhatsApp Image 2025-04-07 at 14 42 10_bb3bc2f7](https://github.com/user-attachments/assets/59cdbcd0-8c22-4113-a0bc-0dafc5885a3d)
 
-## ON
+## LED ON
 
 ![WhatsApp Image 2025-04-07 at 14 42 10_e7b99749](https://github.com/user-attachments/assets/852e95e9-82e2-49ff-b311-336ae9bcd05b)
 
